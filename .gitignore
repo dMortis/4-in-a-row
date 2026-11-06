@@ -1,0 +1,49 @@
+# Unity generated folders and local tooling
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Tt]est[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.plastic/
+/.utmp/
+/.vs/
+/.vscode/
+/_Archive/
+/work/
+/generated_images/
+/Data/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+*.tmp
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+mono_crash.*
+.DS_Store
+Thumbs.db
+# Credentials must never be committed
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+# Preserve all source assets and their .meta files.
+# Historical scenes inside Assets are retained until dependency review.
